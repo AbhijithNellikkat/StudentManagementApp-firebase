@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "268722525472",
+    "project_id": "studentapp-440a6",
+    "storage_bucket": "studentapp-440a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268722525472:android:87d071771874fd27a83345",
+        "android_client_info": {
+          "package_name": "com.example.student_app_firebase_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268722525472-mt2sfu2egh8le6hhhi5b0hgbbknmg72k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh3SNUm6krO8onWRqmR3PiHkkQtOYXoN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268722525472-mt2sfu2egh8le6hhhi5b0hgbbknmg72k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268722525472-a9dqqi675i1dsu8v5drh6hin0bi436r9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studentAppFirebaseProvider"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268722525472:android:53de847037a945e8a83345",
+        "android_client_info": {
+          "package_name": "com.example.student_management_app_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268722525472-mt2sfu2egh8le6hhhi5b0hgbbknmg72k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh3SNUm6krO8onWRqmR3PiHkkQtOYXoN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268722525472-mt2sfu2egh8le6hhhi5b0hgbbknmg72k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268722525472-a9dqqi675i1dsu8v5drh6hin0bi436r9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studentAppFirebaseProvider"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
